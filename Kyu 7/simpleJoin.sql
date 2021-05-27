@@ -1,4 +1,11 @@
-SELECT people.*, COUNT(toys.id) AS toy_count
-FROM people, toys
-WHERE people.id = toys.people_id
-GROUP BY people.id
+SELECT 
+  products.id,
+  products.name,
+  products.isbn,
+  products.company_id,
+  products.price,
+  companies.name as company_name
+FROM
+  products
+JOIN
+  companies on companies.id = products.company_id

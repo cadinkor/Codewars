@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  TRAVELERS
+WHERE
+  COUNTRY NOT IN ('Mexico', 'USA', 'Canada')
