@@ -4,7 +4,6 @@ function greet(name){
   }else{
     return "Hello, " + name + "!";
   }
-  return greet(name);
 }
 
 //or
