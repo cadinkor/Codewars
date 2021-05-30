@@ -1,3 +1,5 @@
 # Codewars
 
-Tracking my progress for the completed problems that I finish on www.codewars.com. Also, I am tracking my journey through an Microsoft Excel sheet. :) #roadfromPinkytoTheBrain
+<img src="https://github.com/elliottthomlison/Codewars/blob/master/codewarsProgress.png" class="center"/>
+
+<!--  width=237px height=465px -->
